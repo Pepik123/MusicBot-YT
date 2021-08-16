@@ -1,9 +1,5 @@
-# DisTube Example
-DisTube.js.org example music bot with command handler
+This is a repo for my music bot tutorial serise.
 
-Check out the [official guide](https://distube.js.org/guide) to get your music bot running from scratch.
+**NPM Packages: discord.js, distube**
 
-**Dependencies maybe outdated. You should update them yourself!**
-```npm
-npm update
-```
+⚠ NOTE: If you are not using repl.it remove the `server.js` file.
